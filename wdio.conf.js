@@ -57,7 +57,7 @@ exports.config = {
         platformName: 'Android',
         'appium:deviceName': 'emulator-5554',
         'appium:automationName' : 'UIAutomator2',
-        'appium:app': path.join(process.cwd(),'app/Timeless Investments_1.11.0_apkcombo.com.apk')
+        'appium:app': path.join(process.cwd(),'app/Timeless Investments_1.11.0_apkcombo.com.apk') //apk file location
     }],
     //
     // ===================
